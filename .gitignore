@@ -1,13 +1,39 @@
+# OS files
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Office documents (large, not needed in repo)
 *.docx
 *.doc
 *.pdf
 *.pptx
 *.ppt
+*.odp
 *.xlsx
 *.xls
+*.ods
+
+# Archives
 *.zip
 *.rar
 *.7z
+*.tar
+*.gz
+
+# Forensic/disk images (very large)
 *.E01
 *.e01
+*.001
+*.dd
+
+# IDE & editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS cache
+Thumbs.db
+.DS_Store
