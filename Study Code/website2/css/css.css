@@ -1,0 +1,14 @@
+h1 {color:green;
+	text-align: center;
+	font-family: serif;
+	}
+	
+p	{color: pink;
+	}
+	
+.center {
+	text-align: center;
+}
+	
+/*in html head
+<link rel="stylesheet" type="text/css" href="folder/file.css"/>*/

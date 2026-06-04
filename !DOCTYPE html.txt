@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Green Valley Farm</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Green Valley Farm</h1>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="attractions.html">Attractions</a></li>
+<li><a href="shop.html">Shop & Cafe</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+</header>
+
+<section class="banner">
+<h2>Welcome to Green Valley Farm</h2>
+<p>A perfect stop for families, travellers and garden lovers.</p>
+</section>
+
+<section class="features">
+<div>
+<h3>Petting Zoo</h3>
+<p>Meet friendly farm animals.</p>
+</div>
+
+<div>
+<h3>Farm Shop</h3>
+<p>Local produce and plants.</p>
+</div>
+
+<div>
+<h3>Café</h3>
+<p>Enjoy fresh food and drinks.</p>
+</div>
+
+<div>
+<h3>Nature Walks</h3>
+<p>Relaxing countryside walks.</p>
+</div>
+</section>
+
+<footer>
+<p>Opening Daily 9am – 5pm</p>
+<p>Located between Edinburgh and Carlisle</p>
+</footer>
+
+</body>
+</html>

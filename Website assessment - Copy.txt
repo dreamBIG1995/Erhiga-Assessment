@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sunny Farm Visitor Attraction</title>
+</head>
+
+<body>
+
+    <!-- Website Heading -->
+    <h1>Welcome to Sunny Farm</h1>
+
+    <!-- Navigation Menu -->
+    <h2>Menu</h2>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="activities.html">Activities</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+
+    <!-- Introduction -->
+    <h2>About Our Farm</h2>
+    <p>
+        Sunny Farm is a small family-friendly visitor attraction located between Edinburgh and Carlisle.
+    </p>
+
+    <p>
+        We offer a variety of activities including a petting zoo, a café, a play park, and scenic walks.
+    </p>
+
+    <!-- Opening Times -->
+    <h2>Opening Times</h2>
+    <p>Monday - Friday: 9:00am - 5:00pm</p>
+    <p>Saturday - Sunday: 10:00am - 6:00pm</p>
+
+    <!-- What We Offer -->
+    <h2>What We Offer</h2>
+    <ul>
+        <li>Shop selling local produce and plants</li>
+        <li>Small petting zoo</li>
+        <li>Family café</li>
+        <li>Children’s play park</li>
+        <li>Nature walks</li>
+    </ul>
+
+    <!-- Footer -->
+    <hr>
+    <p>© 2026 Sunny Farm Visitor Attraction</p>
+
+</body>
+</html>
